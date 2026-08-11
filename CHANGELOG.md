@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.27.0](https://github.com/ArcReel/ArcReel/compare/v0.26.0...v0.27.0) (2026-08-11)
+
+
+### ✨ 新功能
+
+* **assets:** prevent duplicate names across project assets ([#1784](https://github.com/ArcReel/ArcReel/issues/1784)) ([9e43a96](https://github.com/ArcReel/ArcReel/commit/9e43a965b2538ecdd809bad7275e1b595ae4520f))
+* **workflow:** 建立产物清单与内容来源依据 ([aa4a99c](https://github.com/ArcReel/ArcReel/commit/aa4a99c24767abc4765a64b644bfa69d13e85583))
+* **智能体:** 完善配置完整性与恢复体验 ([99ef4a8](https://github.com/ArcReel/ArcReel/commit/99ef4a88e23221a1df9aed68787df5916336505a))
+* **智能体:** 让项目续作状态跨会话保持一致 ([c8c01aa](https://github.com/ArcReel/ArcReel/commit/c8c01aa03e19970161d35d70dc025f15407859c1))
+* **视频:** 统一视频单元发声归属 ([#1777](https://github.com/ArcReel/ArcReel/issues/1777)) ([6504d18](https://github.com/ArcReel/ArcReel/commit/6504d18ec34a7cbeef6ceb243bcee13cb257d889))
+
 ## [0.26.0](https://github.com/ArcReel/ArcReel/compare/v0.25.0...v0.26.0) (2026-08-11)
 
 
